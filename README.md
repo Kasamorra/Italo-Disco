@@ -1,5 +1,5 @@
 # Italo-Disco
-Arduino Project: Nightlight with joystick-colour-control </b>
+Arduino Project: Nightlight with joystick-colour-control <\b>
 </b>
 </b>
 Current State: </b>
