@@ -1,6 +1,4 @@
 # Italo-Disco
-Arduino Project: Nightlight with joystick-colour-control </n>
-</n>
-</n>
-Current State: </n>
+Arduino Project: Nightlight with joystick-colour-control </br>
+</br>
 Code soon to be published
